@@ -12,7 +12,8 @@ print('''
       ''')
 
 # Providing an option to the user to choose the type of reading they want
-option = input('''
+while True:
+    option = input('''
         Step into the realm of insight and mystery. What truth do you seek to uncover?
 
             1. Matters of the Heart (Love)
@@ -24,18 +25,23 @@ option = input('''
         Choose the number that calls to your soul." ''') 
 
 # Mapping the user's choice to the corresponding reading
-if option == '1':
-    option = 'Love'
-elif option == '2':
-    option = 'Career'
-elif option == '3':
-    option = 'Health'
-elif option == '4':
-    option = 'Wealth'
-elif option == '5':
-    option = 'Unfolding Journey'
-else:
-    print('Invalid input. Please choose a number from 1 to 5.')
+    if option == '1':
+        option = 'Love'
+        break
+    elif option == '2':
+        option = 'Career'
+        break
+    elif option == '3':
+        option = 'Health'
+        break
+    elif option == '4':
+        option = 'Wealth'
+        break
+    elif option == '5':
+        option = 'Unfolding Journey'
+        break
+    else:
+        print('Invalid input. Please choose a number from 1 to 5.')
     
 print(f'\nYou have chosen to explore the realm of {option}. Let\'s begin your reading!')
 
