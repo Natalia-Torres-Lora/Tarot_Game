@@ -14,7 +14,7 @@ print('''
 # Providing an option to the user to choose the type of reading they want
 while True:
     option = input('''
-        Step into the realm of insight and mystery. What truth do you seek to uncover?
+Step into the realm of insight and mystery. What truth do you seek to uncover?
 
             1. Matters of the Heart (Love)
             2. Pathways to Success (Career)
@@ -22,7 +22,7 @@ while True:
             4. Fortune and Prosperity (Wealth)
             5. The Unfolding Journey (General Reading)
         
-        Choose the number that calls to your soul." ''') 
+Choose the number that calls to your soul." ''') 
 
 # Mapping the user's choice to the corresponding reading
     if option == '1':
@@ -45,6 +45,6 @@ while True:
     
 print(f'\nYou have chosen to explore the realm of {option}. Let\'s begin your reading!')
 
-# Initiating the thre card reading spread
+# Initiating the the card reading spread
 input('\nFocus your mind and form your question in the realm of the truth you chose. \nWhen ready, press Enter to reveal your cards:')
 
