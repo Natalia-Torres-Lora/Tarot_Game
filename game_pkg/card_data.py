@@ -162,4 +162,32 @@ cards_data = {
         "Wealth": "The Ace of Wands card in a wealth reading indicates new financial opportunities and the potential for growth. It encourages you to take bold steps and follow your instincts to attract abundance and prosperity.",
         "Unfolding Journey": "The Ace of Wands card in a general reading represents new beginnings, creativity, and inspiration. It encourages you to embrace your passions and take action to pursue your goals with enthusiasm and confidence."
     },
+    "Two of Wands": {
+        "Love": "The Two of Wands in a love reading suggests partnership, planning, and future vision in relationships. It encourages you to work together with your partner to create a shared vision for the future.",
+        "Career": "In a career reading, The Two of Wands card symbolizes planning, ambition, and future goals. It encourages you to take the initiative and set clear objectives for your professional path.",
+        "Health": "When The Two of Wands card appears in a health reading, it suggests the importance of setting goals and creating a plan to improve your well-being. This card encourages you to take a proactive approach to your health and make positive changes.",
+        "Wealth": "The Two of Wands card in a wealth reading indicates financial planning, ambition, and future growth. It encourages you to set clear financial goals and take steps to achieve them.",
+        "Unfolding Journey": "The Two of Wands card in a general reading represents planning, ambition, and future vision. It encourages you to set clear goals and take the initiative to create the life you desire."
+    },
+    "Three of Wands": {
+        "Love": "The Three of Wands in a love reading suggests expansion, growth, and exploration in relationships. It encourages you to be open to new experiences and to embrace the unknown in your romantic life.",
+        "Career": "In a career reading, The Three of Wands card symbolizes growth, expansion, and new opportunities. It encourages you to think big and explore new possibilities for your professional path.",
+        "Health": "When The Three of Wands card appears in a health reading, it suggests the importance of exploring new approaches to improve your well-being. This card encourages you to be open to new experiences and make positive changes to your health.",
+        "Wealth": "The Three of Wands card in a wealth reading indicates financial growth, expansion, and new opportunities. It encourages you to think big and explore new possibilities for attracting abundance and prosperity.",
+        "Unfolding Journey": "The Three of Wands card in a general reading represents expansion, growth, and exploration. It encourages you to be open to new experiences and to embrace the unknown in your life."
+    },
+    "Four of Wands": {
+        "Love": "The Four of Wands in a love reading suggests celebration, harmony, and stability in relationships. It encourages you to celebrate your love and create a sense of security and happiness in your romantic life.",
+        "Career": "In a career reading, The Four of Wands card symbolizes success, stability, and recognition. It encourages you to celebrate your achievements and create a harmonious work environment.",
+        "Health": "When The Four of Wands card appears in a health reading, it suggests the importance of celebrating your well-being and creating a sense of stability and happiness. This card encourages you to take care of your body and mind and enjoy the fruits of your labor.",
+        "Wealth": "The Four of Wands card in a wealth reading indicates financial success, stability, and security. It encourages you to celebrate your financial achievements and create a sense of abundance and prosperity.",
+        "Unfolding Journey": "The Four of Wands card in a general reading represents celebration, harmony, and stability. It encourages you to celebrate your achievements and create a sense of security and happiness in all aspects of your life."
+    },
+    "Five of Wands": {
+        "Love": "The Five of Wands in a love reading suggests conflict, competition, and disagreement in relationships. It encourages you to find common ground and work together to resolve any conflicts or differences.",
+        "Career": "In a career reading, The Five of Wands card symbolizes competition, challenges, and conflict. It encourages you to stay focused and work together with your colleagues to overcome obstacles and achieve success.",
+        "Health": "When The Five of Wands card appears in a health reading, it suggests the importance of finding balance and harmony in your physical and emotional well-being. This card encourages you to work through any conflicts or challenges to improve your health.",
+        "Wealth": "The Five of Wands card in a wealth reading indicates financial competition, challenges, and conflict. It encourages you to stay focused and work together with others to overcome financial obstacles and achieve prosperity.",
+        "Unfolding Journey": "The Five of Wands card in a general reading represents conflict, competition, and challenges. It encourages you to find common ground and work together with others to overcome obstacles and achieve success."
+    },
 }
