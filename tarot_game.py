@@ -2,7 +2,7 @@
 
 from game_pkg.card_class import Card, create_deck, shuffle_deck, draw_3cards
 from game_pkg.card_data import cards_data
-from game_pkg.ascll_art import start_greeting
+from game_pkg.ascll_art import start_greeting, print_3cards, print_star
 
 
 # starting the game with a greeting
@@ -47,7 +47,7 @@ Choose the number that calls to your soul." ''')
 print(f'\nYou have chosen to explore the realm of {option}. Let\'s begin your reading!')
 
 # Initiating the the card reading spread
-input('\nFocus your mind and form your question in the realm of the truth you chose. \nWhen ready, press Enter to reveal your cards:')
+input('Focus your mind and form your question in the realm of the truth you chose. \n\nWhen ready, press Enter to reveal your cards:')
 
 # Creating the deck of cards
 deck = create_deck(option)
@@ -59,12 +59,15 @@ deck = shuffle_deck(deck)
 cards = draw_3cards(deck)
 
 # Displaying the cards drawn
+print_3cards()
 print('\nYour cards have been revealed! Here is your reading: \n')
-print('Yor Past: ', cards[0].name), print(cards[0].description)
-print('\nYour Present: ', cards[1].name), print(cards[1].description)
-print('\nYour Future: ', cards[2].name), print(cards[2].description)
+
+print(f'*Your Past:\nCard: {cards[0].name}\n{cards[0].description}\n')
+print(f'*Your Present:\nCard: {cards[1].name}\n{cards[1].description}\n')
+print(f'*Your Future:\nCard: {cards[2].name}\n{cards[2].description}\n')
 
 print('\nThank you for your trust in the cards. May the wisdom you have gained guide you on your journey.')
+print_star()
 
 
 

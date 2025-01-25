@@ -3,16 +3,16 @@
 cards_data = {
     "The Fool": {
         "Love": "The Fool card in a love reading can indicate that you are entering a new relationship or embarking on a new chapter in your current relationship. This card encourages you to take a leap of faith and trust in the journey ahead. It may also suggest that you need to let go of any fears or doubts that are holding you back from experiencing true love.",
-        "Career": "In a career reading, The Fool card can signify new beginnings and opportunities on the horizon. It encourages you to embrace change and take risks in your professional life. This card may also indicate that you need to trust your instincts and follow your passion to achieve success.",
-        "Health": "When The Fool card appears in a health reading, it can suggest that you need to take a fresh approach to your well-being. This card encourages you to listen to your body and make positive changes to improve your health. It may also indicate that you need to let go of any negative beliefs or habits that are impacting your well-being.",
-        "Wealth": "The Fool card in a wealth reading can indicate that you are on the brink of a new financial opportunity or investment. This card encourages you to take a leap of faith and trust in your ability to attract abundance. It may also suggest that you need to let go of any limiting beliefs or fears around money.",
+        "Career": "The Fool card can signify new beginnings and opportunities on the horizon. It encourages you to embrace change and take risks in your professional life. This card may also indicate that you need to trust your instincts and follow your passion to achieve success.",
+        "Health": "This card can suggest that you need to take a fresh approach to your well-being. This card encourages you to listen to your body and make positive changes to improve your health. It may also indicate that you need to let go of any negative beliefs or habits that are impacting your well-being.",
+        "Wealth": "This card can indicate that you are on the brink of a new financial opportunity or investment. This card encourages you to take a leap of faith and trust in your ability to attract abundance. It may also suggest that you need to let go of any limiting beliefs or fears around money.",
         "Unfolding Journey": "The Fool card in a general reading represents new beginnings, fresh starts, and unlimited potential. It encourages you to embrace the unknown and trust in the universe to guide you on your journey. This card may also indicate that you need to let go of any fears or doubts that are holding you back from living your best life."
     },
     "The Magician": {
-        "Love": "The Magician card in a love reading can indicate that you have the power to manifest the love you desire. This card encourages you to take action and communicate your feelings openly and honestly. It may also suggest that you need to tap into your inner strength and confidence to attract the right partner.",
+        "Love": "This card can indicate that you have the power to manifest the love you desire. This card encourages you to take action and communicate your feelings openly and honestly. It may also suggest that you need to tap into your inner strength and confidence to attract the right partner.",
         "Career": "In a career reading, The Magician card can signify that you have the skills and resources to achieve your professional goals. It encourages you to be proactive and creative in your work. This card may also indicate that you need to focus on your strengths and leverage them to advance in your career.",
         "Health": "When The Magician card appears in a health reading, it can suggest that you have the power to heal and transform your well-being. This card encourages you to take a holistic approach to your health and well-being. It may also indicate that you need to focus on positive thoughts and beliefs to improve your overall health.",
-        "Wealth": "The Magician card in a wealth reading can indicate that you have the ability to attract abundance and prosperity into your life. This card encourages you to be resourceful and take advantage of financial opportunities. It may also suggest that you need to focus on your financial goals and take practical steps to achieve them.",
+        "Wealth": "This card can indicate that you have the ability to attract abundance and prosperity into your life. This card encourages you to be resourceful and take advantage of financial opportunities. It may also suggest that you need to focus on your financial goals and take practical steps to achieve them.",
         "Unfolding Journey": "The Magician card in a general reading represents manifestation, creativity, and empowerment. It encourages you to harness your inner power and take control of your destiny. This card may also indicate that you need to focus on your intentions and take action to create the life you desire."
     },
     "The High Priestess": {
@@ -25,15 +25,15 @@ cards_data = {
     "The Empress": {
         "Love": "The Empress card in a love reading symbolizes nurturing and abundance in relationships. It may suggest that your relationship is growing and flourishing or that you are ready to attract love through self-care and compassion.",
         "Career": "In a career reading, The Empress card can indicate creativity, growth, and the potential for success. It encourages you to nurture your talents and focus on projects that bring you joy and fulfillment.",
-        "Health": "When The Empress card appears in a health reading, it can suggest that you need to focus on nurturing your body and mind. This card encourages you to prioritize self-care and create a balanced and healthy lifestyle.",
+        "Health": "For this card it can suggest that you need to focus on nurturing your body and mind. This card encourages you to prioritize self-care and create a balanced and healthy lifestyle.",
         "Wealth": "The Empress card in a wealth reading symbolizes abundance and prosperity. It encourages you to cultivate a mindset of gratitude and trust in your ability to attract financial growth.",
         "Unfolding Journey": "The Empress card in a general reading represents creativity, abundance, and nurturing energy. It encourages you to embrace your inner strength and focus on creating a life of fulfillment and joy."
     },
     "The Emperor": {
         "Love": "The Emperor card in a love reading signifies stability and structure in relationships. It may suggest the need to establish boundaries or take on a leadership role in your romantic life.",
         "Career": "In a career reading, The Emperor card symbolizes authority, discipline, and organization. It encourages you to take charge of your professional path and work toward long-term goals with determination.",
-        "Health": "When The Emperor card appears in a health reading, it can suggest the importance of discipline and routine in maintaining your well-being. This card encourages you to create a structured plan to improve your health.",
-        "Wealth": "The Emperor card in a wealth reading indicates financial stability and security. It encourages you to take a responsible and organized approach to your finances.",
+        "Health": "This card can suggest the importance of discipline and routine in maintaining your well-being. This card encourages you to create a structured plan to improve your health.",
+        "Wealth": "This card indicates financial stability and security. It encourages you to take a responsible and organized approach to your finances.",
         "Unfolding Journey": "The Emperor card in a general reading represents authority, stability, and leadership. It encourages you to take control of your life and create a solid foundation for the future."
     },
     "The Hierophant": {
@@ -93,17 +93,17 @@ cards_data = {
         "Unfolding Journey": "The Hanged Man card in a general reading represents sacrifice, letting go, and new perspectives. It encourages you to be willing to make sacrifices for the greater good and to look at your life from a different angle."
     },
     "Death": {
-        "Love": "The Death card in a love reading suggests transformation, change, and rebirth in relationships. It encourages you to let go of the old and to make way for the new.",
+        "Love": "This card in a love reading suggests transformation, change, and rebirth in relationships. It encourages you to let go of the old and to make way for the new.",
         "Career": "In a career reading, The Death card symbolizes transformation, change, and rebirth. It encourages you to let go of the old and to make way for the new.",
         "Health": "When The Death card appears in a health reading, it suggests the importance of transformation, change, and rebirth in your physical and emotional well-being. This card encourages you to let go of the old and to make way for the new.",
         "Wealth": "The Death card in a wealth reading indicates financial transformation, change, and rebirth. It encourages you to let go of the old and to make way for the new.",
         "Unfolding Journey": "The Death card in a general reading represents transformation, change, and rebirth. It encourages you to let go of the old and to make way for the new."
     },
     "Temperance": {
-        "Love": "The Temperance card in a love reading suggests balance, harmony, and moderation in relationships. It encourages you to find a balance between giving and receiving and to cultivate a sense of harmony and peace.",
+        "Love": "This card in a love reading suggests balance, harmony, and moderation in relationships. It encourages you to find a balance between giving and receiving and to cultivate a sense of harmony and peace.",
         "Career": "In a career reading, The Temperance card symbolizes balance, harmony, and moderation. It encourages you to find a balance between work and play and to cultivate a sense of harmony and peace in your professional life.",
         "Health": "When The Temperance card appears in a health reading, it suggests the importance of balance, harmony, and moderation in your physical and emotional well-being. This card encourages you to find a balance between rest and activity and to cultivate a sense of harmony and peace.",
-        "Wealth": "The Temperance card in a wealth reading indicates financial balance, harmony, and moderation. It encourages you to find a balance between spending and saving and to cultivate a sense of harmony and peace in your financial life.",
+        "Wealth": "This card in a wealth reading indicates financial balance, harmony, and moderation. It encourages you to find a balance between spending and saving and to cultivate a sense of harmony and peace in your financial life.",
         "Unfolding Journey": "The Temperance card in a general reading represents balance, harmony, and moderation. It encourages you to find a balance between different aspects of your life and to cultivate a sense of harmony and peace."
     },
     "The Devil": {
@@ -154,5 +154,12 @@ cards_data = {
         "Health": "When The World card appears in a health reading, it suggests the importance of completion, fulfillment, and integration in your physical and emotional well-being. This card encourages you to appreciate the beauty of your body and mind and to recognize the interconnectedness of all things.",
         "Wealth": "The World card in a wealth reading indicates financial completion, fulfillment, and integration. It encourages you to appreciate the beauty of your financial life and to recognize the interconnectedness of all things.",
         "Unfolding Journey": "The World card in a general reading represents completion, fulfillment, and integration. It encourages you to appreciate the beauty of your life and to recognize the interconnectedness of all things."
-    }
+    },
+    "Ace of Wands": {
+        "Love": "The Ace of Wands in a love reading suggests new beginnings, passion, and excitement in relationships. It encourages you to embrace your desires and take action to pursue your romantic goals.",
+        "Career": "In a career reading, The Ace of Wands card symbolizes new opportunities, creativity, and inspiration. It encourages you to follow your passion and take bold steps toward your professional goals.",
+        "Health": "When The Ace of Wands card appears in a health reading, it suggests the importance of taking action and pursuing your well-being goals with passion and enthusiasm. This card encourages you to be proactive and make positive changes to improve your health.",
+        "Wealth": "The Ace of Wands card in a wealth reading indicates new financial opportunities and the potential for growth. It encourages you to take bold steps and follow your instincts to attract abundance and prosperity.",
+        "Unfolding Journey": "The Ace of Wands card in a general reading represents new beginnings, creativity, and inspiration. It encourages you to embrace your passions and take action to pursue your goals with enthusiasm and confidence."
+    },
 }
