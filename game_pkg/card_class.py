@@ -1,12 +1,24 @@
 # card_class.py
+import random
+
+from .card_data import cards_data
+
 
 class Card:
-    def __init__(self, name, love_des, career_des, health_des, wealth_des, general_des):
+    def __init__(self, name, description):
         self.name = name
-        self.love_description = love_des
-        self.career_description = career_des
-        self.health_description = health_des
-        self.wealth_description = wealth_des
-        self.general_description = general_des
+        self.description = description
         
+def create_deck(option):
+    deck = []
+    for card, descriptions in cards_data.items():
+        deck.append(Card(card, descriptions[option]))
+    return deck
 
+def shuffle_deck(deck):
+    random.shuffle(deck)
+    return deck
+
+def draw_3cards(deck):
+    return deck[:3]
+        
