@@ -8,8 +8,8 @@ from game_pkg.ascll_art import start_greeting, print_3cards, print_star
 # starting the game with a greeting
 start_greeting()
 print('''
-        Welcome to your Tarot Reading! 
-        This is your opportunity to dive deep into your past, present, and future, and confidently shape your destiny. Let\'s get started!
+Welcome to your Tarot Reading! 
+This is your opportunity to dive deep into your past, present, and future, and confidently shape your destiny. Let\'s get started!
       ''')
 
 # Providing an option to the user to choose the type of reading they want
